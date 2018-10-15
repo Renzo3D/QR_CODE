@@ -13,3 +13,15 @@ Google infographic is use to create this QR code but it is not recommend by goog
 https://developers.google.com/chart/infographics/docs/qr_codes
 
 
+I am using xampp-control to work with PHP, and MYSQL
+
+
+also these video and link will be very helpful  
+
+video :  https://www.youtube.com/watch?v=2Dbe3a_rPg8
+
+link: http://datainflow.com/generate-qr-code-using-php-using-small-javascript/
+
+
+enjoy this code. 
+
